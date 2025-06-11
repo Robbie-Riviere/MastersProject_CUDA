@@ -1,0 +1,7 @@
+pygame
+sys
+time
+random
+torch
+torchvision
+numpy

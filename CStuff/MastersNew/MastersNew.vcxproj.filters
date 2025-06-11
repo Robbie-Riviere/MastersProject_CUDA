@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\CA.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MazeAgent.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1483ab74-1112-4cb9-9d18-1fd65c00e7d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inc">
+      <UniqueIdentifier>{296ca7e5-1715-4b07-a81a-82a6624e043c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\VS_SDL\CA.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\VS_SDL\MazeAgent.hpp">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\VS_SDL\MazeNet.hpp">
+      <Filter>inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
