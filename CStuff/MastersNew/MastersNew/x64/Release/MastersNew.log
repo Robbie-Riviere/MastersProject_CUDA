@@ -1,0 +1,6 @@
+﻿  CA.cpp
+C:\Users\Robbie\RIT\Masters\MastersProj\CStuff\CA.cpp(7,10): error C1083: Cannot open include file: 'CA.h': No such file or directory
+  main.cpp
+C:\Users\Robbie\RIT\Masters\MastersProj\CStuff\main.cpp(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MazeAgent.cpp
+C:\Users\Robbie\RIT\Masters\MastersProj\CStuff\MazeAgent.cpp(5,10): error C1083: Cannot open include file: 'MazeAgent.hpp': No such file or directory

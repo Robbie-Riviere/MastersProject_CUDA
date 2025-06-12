@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "request": "launch",
+            "name": "Launch MazeGame",
+            "program": "${workspaceFolder}/MazeGame/Main.py"
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "programName",
+            "description": "Enter the path to the Python file to launch"
+        }
+    ]
+}
